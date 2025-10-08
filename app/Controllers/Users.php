@@ -11,11 +11,24 @@ class Users extends BaseController
         helper(['form', 'url']);
     }
 
-    public function index()
+    private function checkAdminAccess()
     {
         if (!session()->get('isLoggedIn')) {
             return redirect()->to('/');
         }
+        
+        if (session()->get('role') !== 'admin') {
+            session()->setFlashdata('error', 'Access denied. Admin only.');
+            return redirect()->to('/dashboard');
+        }
+        
+        return null;
+    }
+
+    public function index()
+    {
+        $redirect = $this->checkAdminAccess();
+        if ($redirect) return $redirect;
 
         $userModel = new UserModel();
         $data['users'] = $userModel->findAll();
@@ -24,17 +37,16 @@ class Users extends BaseController
 
     public function create()
     {
-        if (!session()->get('isLoggedIn')) {
-            return redirect()->to('/');
-        }
+        $redirect = $this->checkAdminAccess();
+        if ($redirect) return $redirect;
+
         return view('users/create');
     }
 
     public function store()
     {
-        if (!session()->get('isLoggedIn')) {
-            return redirect()->to('/');
-        }
+        $redirect = $this->checkAdminAccess();
+        if ($redirect) return $redirect;
 
         $userModel = new UserModel();
         
@@ -56,9 +68,8 @@ class Users extends BaseController
 
     public function edit($id)
     {
-        if (!session()->get('isLoggedIn')) {
-            return redirect()->to('/');
-        }
+        $redirect = $this->checkAdminAccess();
+        if ($redirect) return $redirect;
 
         $userModel = new UserModel();
         $data['user'] = $userModel->find($id);
@@ -72,9 +83,8 @@ class Users extends BaseController
 
     public function update($id)
     {
-        if (!session()->get('isLoggedIn')) {
-            return redirect()->to('/');
-        }
+        $redirect = $this->checkAdminAccess();
+        if ($redirect) return $redirect;
 
         $userModel = new UserModel();
         
@@ -100,9 +110,8 @@ class Users extends BaseController
 
     public function delete($id)
     {
-        if (!session()->get('isLoggedIn')) {
-            return redirect()->to('/');
-        }
+        $redirect = $this->checkAdminAccess();
+        if ($redirect) return $redirect;
 
         $userModel = new UserModel();
         

@@ -9,6 +9,13 @@
     </div>
 <?php endif; ?>
 
+<?php if(session()->getFlashdata('error')): ?>
+    <div class="alert alert-danger alert-dismissible fade show">
+        <?= session()->getFlashdata('error') ?>
+        <button type="button" class="btn-close" data-bs-dismiss="alert"></button>
+    </div>
+<?php endif; ?>
+
 <div class="row">
     <div class="col-md-4">
         <div class="card stat-card">
@@ -26,6 +33,7 @@
         </div>
     </div>
 
+    <?php if(session()->get('role') == 'admin'): ?>
     <div class="col-md-4">
         <div class="card stat-card">
             <div class="card-body">
@@ -41,6 +49,7 @@
             </div>
         </div>
     </div>
+    <?php endif; ?>
 
     <div class="col-md-4">
         <div class="card stat-card">
@@ -49,6 +58,7 @@
                     <div>
                         <h6 class="text-muted mb-2">Welcome</h6>
                         <h5 class="mb-0"><?= session()->get('full_name') ?></h5>
+                        <small class="text-muted"><?= ucfirst(session()->get('role')) ?></small>
                     </div>
                     <div class="text-danger" style="font-size: 3em; opacity: 0.3;">
                         <i class="bi bi-person-circle"></i>

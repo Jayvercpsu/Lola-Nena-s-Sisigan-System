@@ -101,11 +101,15 @@
                         <i class="bi bi-speedometer2"></i> Dashboard
                     </a>
                 </li>
+                
+                <?php if(session()->get('role') == 'admin'): ?>
                 <li class="nav-item">
                     <a class="nav-link <?= (strpos(uri_string(), 'users') !== false) ? 'active' : '' ?>" href="<?= base_url('users') ?>">
                         <i class="bi bi-people"></i> User Management
                     </a>
                 </li>
+                <?php endif; ?>
+                
                 <li class="nav-item">
                     <a class="nav-link <?= (strpos(uri_string(), 'products') !== false) ? 'active' : '' ?>" href="<?= base_url('products') ?>">
                         <i class="bi bi-box-seam"></i> Product Management
@@ -123,7 +127,7 @@
             <div class="mt-4 text-center">
                 <small class="text-white-50">Logged in as:</small>
                 <p class="text-white mb-0"><strong><?= session()->get('full_name') ?></strong></p>
-                <small class="text-white-50">(<?= session()->get('role') ?>)</small>
+                <small class="text-white-50">(<?= ucfirst(session()->get('role')) ?>)</small>
             </div>
         </div>
     </div>

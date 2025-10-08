@@ -167,3 +167,202 @@ DEBUG - 2025-10-08 03:32:50 --> Hash from database: $2y$10$92IXUNpkjO0rOQ5byMi.Y
 DEBUG - 2025-10-08 03:32:50 --> Password verify result: true
 DEBUG - 2025-10-08 03:32:50 --> Login successful
 DEBUG - 2025-10-08 03:32:50 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-10-08 03:33:38 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-10-08 03:33:41 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-10-08 03:33:44 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-10-08 03:33:45 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-10-08 03:33:46 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-10-08 03:33:48 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-10-08 03:33:50 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-10-08 03:33:50 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-10-08 03:33:55 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-10-08 03:33:55 --> Login attempt - Username: admin
+DEBUG - 2025-10-08 03:33:55 --> User found. Checking password...
+DEBUG - 2025-10-08 03:33:55 --> Password from form: password
+DEBUG - 2025-10-08 03:33:55 --> Hash from database: $2y$10$92IXUNpkjO0rOQ5byMi.Ye4oKoEa3Ro9llC/.og/at2.uheWG/igi
+DEBUG - 2025-10-08 03:33:55 --> Password verify result: true
+DEBUG - 2025-10-08 03:33:55 --> Login successful
+DEBUG - 2025-10-08 03:33:55 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-10-08 03:33:58 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-10-08 03:34:00 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-10-08 03:34:01 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-10-08 03:34:04 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-10-08 03:34:08 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-10-08 03:34:12 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-10-08 03:34:22 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-10-08 03:34:24 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-10-08 03:34:55 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-10-08 03:34:55 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-10-08 03:35:08 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-10-08 03:35:09 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-10-08 03:35:13 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-10-08 03:35:13 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-10-08 03:35:19 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-10-08 03:35:19 --> Login attempt - Username: jayver
+DEBUG - 2025-10-08 03:35:19 --> User not found: jayver
+DEBUG - 2025-10-08 03:35:19 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-10-08 03:35:29 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-10-08 03:35:29 --> Login attempt - Username: jayver super admin
+DEBUG - 2025-10-08 03:35:29 --> User found. Checking password...
+DEBUG - 2025-10-08 03:35:29 --> Password from form: jayver
+DEBUG - 2025-10-08 03:35:29 --> Hash from database: $2y$10$ws0BuYrBOk1hzJmnxgTHe..HiCgAKj0VqPvQF.QhWnCowgJ5mm5L6
+DEBUG - 2025-10-08 03:35:29 --> Password verify result: true
+DEBUG - 2025-10-08 03:35:29 --> Login successful
+DEBUG - 2025-10-08 03:35:29 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-10-08 03:35:33 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-10-08 03:35:39 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-10-08 03:35:41 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-10-08 03:35:47 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-10-08 03:35:54 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-10-08 03:35:57 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-10-08 03:36:10 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-10-08 03:36:10 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-10-08 03:36:13 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-10-08 03:36:16 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-10-08 03:36:16 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-10-08 03:36:20 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-10-08 03:36:20 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-10-08 03:36:25 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-10-08 03:36:25 --> Login attempt - Username: jayver super admin
+DEBUG - 2025-10-08 03:36:25 --> User not found: jayver super admin
+DEBUG - 2025-10-08 03:36:25 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-10-08 03:36:28 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-10-08 03:36:28 --> Login attempt - Username: jayver
+DEBUG - 2025-10-08 03:36:28 --> User found. Checking password...
+DEBUG - 2025-10-08 03:36:28 --> Password from form: </main>     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/js/bootstrap.bundle.min.js"></script> </body> </html>
+DEBUG - 2025-10-08 03:36:28 --> Hash from database: $2y$10$hwvYUH2cAfOiqFFCc3N1MOwwCVHFTQZlGNFmlbmUgnteyyZDi.IrG
+DEBUG - 2025-10-08 03:36:28 --> Password verify result: false
+DEBUG - 2025-10-08 03:36:28 --> Password verification failed
+DEBUG - 2025-10-08 03:36:28 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-10-08 03:36:31 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-10-08 03:36:31 --> Login attempt - Username: jayver
+DEBUG - 2025-10-08 03:36:31 --> User found. Checking password...
+DEBUG - 2025-10-08 03:36:31 --> Password from form: jayver
+DEBUG - 2025-10-08 03:36:31 --> Hash from database: $2y$10$hwvYUH2cAfOiqFFCc3N1MOwwCVHFTQZlGNFmlbmUgnteyyZDi.IrG
+DEBUG - 2025-10-08 03:36:31 --> Password verify result: false
+DEBUG - 2025-10-08 03:36:31 --> Password verification failed
+DEBUG - 2025-10-08 03:36:32 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-10-08 03:36:35 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-10-08 03:36:35 --> Login attempt - Username: jayver
+DEBUG - 2025-10-08 03:36:35 --> User found. Checking password...
+DEBUG - 2025-10-08 03:36:35 --> Password from form: 111322
+DEBUG - 2025-10-08 03:36:35 --> Hash from database: $2y$10$hwvYUH2cAfOiqFFCc3N1MOwwCVHFTQZlGNFmlbmUgnteyyZDi.IrG
+DEBUG - 2025-10-08 03:36:35 --> Password verify result: true
+DEBUG - 2025-10-08 03:36:35 --> Login successful
+DEBUG - 2025-10-08 03:36:35 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-10-08 03:36:40 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-10-08 03:36:48 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-10-08 03:37:08 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-10-08 03:37:08 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-10-08 03:37:20 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-10-08 03:37:21 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-10-08 03:37:23 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-10-08 03:37:57 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-10-08 03:37:57 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-10-08 03:39:04 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-10-08 03:39:05 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-10-08 03:39:13 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-10-08 03:39:13 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-10-08 03:39:20 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-10-08 03:39:20 --> Login attempt - Username: staff
+DEBUG - 2025-10-08 03:39:20 --> User found. Checking password...
+DEBUG - 2025-10-08 03:39:20 --> Password from form: password
+DEBUG - 2025-10-08 03:39:20 --> Hash from database: $2y$10$92IXUNpkjO0rOQ5byMi.Ye4oKoEa3Ro9llC/.og/at2.uheWG/igi
+DEBUG - 2025-10-08 03:39:20 --> Password verify result: true
+DEBUG - 2025-10-08 03:39:20 --> Login successful
+DEBUG - 2025-10-08 03:39:20 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-10-08 03:39:24 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-10-08 03:39:26 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-10-08 03:39:27 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-10-08 03:39:28 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-10-08 03:39:36 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-10-08 03:39:36 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-10-08 03:39:40 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-10-08 03:39:40 --> Login attempt - Username: admin
+DEBUG - 2025-10-08 03:39:40 --> User found. Checking password...
+DEBUG - 2025-10-08 03:39:40 --> Password from form: password
+DEBUG - 2025-10-08 03:39:40 --> Hash from database: $2y$10$92IXUNpkjO0rOQ5byMi.Ye4oKoEa3Ro9llC/.og/at2.uheWG/igi
+DEBUG - 2025-10-08 03:39:40 --> Password verify result: true
+DEBUG - 2025-10-08 03:39:40 --> Login successful
+DEBUG - 2025-10-08 03:39:40 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-10-08 03:42:52 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-10-08 03:42:53 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-10-08 03:42:55 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-10-08 03:42:55 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-10-08 03:42:57 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-10-08 03:43:01 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-10-08 03:43:01 --> Login attempt - Username: admin
+DEBUG - 2025-10-08 03:43:01 --> User found. Checking password...
+DEBUG - 2025-10-08 03:43:01 --> Password from form: pasas
+DEBUG - 2025-10-08 03:43:01 --> Hash from database: $2y$10$92IXUNpkjO0rOQ5byMi.Ye4oKoEa3Ro9llC/.og/at2.uheWG/igi
+DEBUG - 2025-10-08 03:43:01 --> Password verify result: false
+DEBUG - 2025-10-08 03:43:01 --> Password verification failed
+DEBUG - 2025-10-08 03:43:01 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-10-08 03:43:04 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-10-08 03:43:04 --> Login attempt - Username: admin
+DEBUG - 2025-10-08 03:43:04 --> User found. Checking password...
+DEBUG - 2025-10-08 03:43:04 --> Password from form: admin
+DEBUG - 2025-10-08 03:43:04 --> Hash from database: $2y$10$92IXUNpkjO0rOQ5byMi.Ye4oKoEa3Ro9llC/.og/at2.uheWG/igi
+DEBUG - 2025-10-08 03:43:04 --> Password verify result: false
+DEBUG - 2025-10-08 03:43:04 --> Password verification failed
+DEBUG - 2025-10-08 03:43:04 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-10-08 03:43:06 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-10-08 03:43:06 --> Login attempt - Username: admin
+DEBUG - 2025-10-08 03:43:06 --> User found. Checking password...
+DEBUG - 2025-10-08 03:43:06 --> Password from form: admin
+DEBUG - 2025-10-08 03:43:06 --> Hash from database: $2y$10$92IXUNpkjO0rOQ5byMi.Ye4oKoEa3Ro9llC/.og/at2.uheWG/igi
+DEBUG - 2025-10-08 03:43:06 --> Password verify result: false
+DEBUG - 2025-10-08 03:43:06 --> Password verification failed
+DEBUG - 2025-10-08 03:43:06 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-10-08 03:43:11 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-10-08 03:43:11 --> Login attempt - Username: admin
+DEBUG - 2025-10-08 03:43:11 --> User found. Checking password...
+DEBUG - 2025-10-08 03:43:11 --> Password from form: password
+DEBUG - 2025-10-08 03:43:11 --> Hash from database: $2y$10$92IXUNpkjO0rOQ5byMi.Ye4oKoEa3Ro9llC/.og/at2.uheWG/igi
+DEBUG - 2025-10-08 03:43:11 --> Password verify result: true
+DEBUG - 2025-10-08 03:43:11 --> Login successful
+DEBUG - 2025-10-08 03:43:11 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-10-08 03:43:15 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-10-08 03:43:17 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-10-08 03:43:20 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-10-08 03:43:20 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-10-08 03:43:24 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-10-08 03:43:24 --> Login attempt - Username: staff
+DEBUG - 2025-10-08 03:43:24 --> User found. Checking password...
+DEBUG - 2025-10-08 03:43:24 --> Password from form: admin
+DEBUG - 2025-10-08 03:43:24 --> Hash from database: $2y$10$92IXUNpkjO0rOQ5byMi.Ye4oKoEa3Ro9llC/.og/at2.uheWG/igi
+DEBUG - 2025-10-08 03:43:24 --> Password verify result: false
+DEBUG - 2025-10-08 03:43:24 --> Password verification failed
+DEBUG - 2025-10-08 03:43:25 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-10-08 03:43:29 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-10-08 03:43:29 --> Login attempt - Username: staff
+DEBUG - 2025-10-08 03:43:29 --> User found. Checking password...
+DEBUG - 2025-10-08 03:43:29 --> Password from form: password
+DEBUG - 2025-10-08 03:43:29 --> Hash from database: $2y$10$92IXUNpkjO0rOQ5byMi.Ye4oKoEa3Ro9llC/.og/at2.uheWG/igi
+DEBUG - 2025-10-08 03:43:29 --> Password verify result: true
+DEBUG - 2025-10-08 03:43:29 --> Login successful
+DEBUG - 2025-10-08 03:43:29 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-10-08 03:43:36 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-10-08 03:43:37 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-10-08 03:43:42 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-10-08 03:43:45 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-10-08 03:44:21 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-10-08 03:44:21 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-10-08 03:44:28 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-10-08 03:44:38 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-10-08 03:44:38 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-10-08 03:44:42 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-10-08 03:44:42 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-10-08 03:44:44 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-10-08 03:44:50 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-10-08 03:44:53 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-10-08 03:44:54 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-10-08 03:44:54 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-10-08 03:45:00 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-10-08 03:45:00 --> Login attempt - Username: jayver
+DEBUG - 2025-10-08 03:45:00 --> User found. Checking password...
+DEBUG - 2025-10-08 03:45:00 --> Password from form: 111322
+DEBUG - 2025-10-08 03:45:00 --> Hash from database: $2y$10$hwvYUH2cAfOiqFFCc3N1MOwwCVHFTQZlGNFmlbmUgnteyyZDi.IrG
+DEBUG - 2025-10-08 03:45:00 --> Password verify result: true
+DEBUG - 2025-10-08 03:45:00 --> Login successful
+DEBUG - 2025-10-08 03:45:01 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
