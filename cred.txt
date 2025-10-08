@@ -1,0 +1,10 @@
+admin credentials
+
+username - admin
+pass- password
+
+staff credentials
+
+username - staff
+password - password
+

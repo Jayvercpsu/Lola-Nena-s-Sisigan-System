@@ -22,9 +22,24 @@ class Auth extends BaseController
         $username = $this->request->getPost('username');
         $password = $this->request->getPost('password');
         
-        $user = $userModel->verifyUser($username, $password);
+        log_message('debug', 'Login attempt - Username: ' . $username);
         
-        if ($user) {
+        $user = $userModel->where('username', $username)->first();
+        
+        if (!$user) {
+            log_message('debug', 'User not found: ' . $username);
+            $session->setFlashdata('error', 'User not found');
+            return redirect()->to('/');
+        }
+        
+        log_message('debug', 'User found. Checking password...');
+        log_message('debug', 'Password from form: ' . $password);
+        log_message('debug', 'Hash from database: ' . $user['password']);
+        
+        $verified = password_verify($password, $user['password']);
+        log_message('debug', 'Password verify result: ' . ($verified ? 'true' : 'false'));
+        
+        if ($verified) {
             $sessionData = [
                 'user_id' => $user['id'],
                 'username' => $user['username'],
@@ -33,9 +48,11 @@ class Auth extends BaseController
                 'isLoggedIn' => true
             ];
             $session->set($sessionData);
+            log_message('debug', 'Login successful');
             return redirect()->to('/dashboard');
         } else {
-            $session->setFlashdata('error', 'Invalid username or password');
+            log_message('debug', 'Password verification failed');
+            $session->setFlashdata('error', 'Invalid password');
             return redirect()->to('/');
         }
     }
